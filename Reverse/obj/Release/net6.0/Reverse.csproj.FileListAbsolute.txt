@@ -1,0 +1,14 @@
+C:\Users\commando\Source\Repos\Reverse\Reverse\bin\Release\net6.0\Reverse.exe
+C:\Users\commando\Source\Repos\Reverse\Reverse\bin\Release\net6.0\Reverse.deps.json
+C:\Users\commando\Source\Repos\Reverse\Reverse\bin\Release\net6.0\Reverse.runtimeconfig.json
+C:\Users\commando\Source\Repos\Reverse\Reverse\bin\Release\net6.0\Reverse.dll
+C:\Users\commando\Source\Repos\Reverse\Reverse\bin\Release\net6.0\Reverse.pdb
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.dll
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\refint\Reverse.dll
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.pdb
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\Reverse.genruntimeconfig.cache
+C:\Users\commando\Source\Repos\Reverse\Reverse\obj\Release\net6.0\ref\Reverse.dll
